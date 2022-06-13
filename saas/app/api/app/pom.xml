@@ -18,7 +18,7 @@
         <spring.boot.dependencies.version>2.3.9.RELEASE</spring.boot.dependencies.version>
         <spring.cloud.dependencies.version>Hoxton.SR10</spring.cloud.dependencies.version>
         <!-- alibaba-->
-        <spring.cloud.alibaba.version>2.1.2.RELEASE</spring.cloud.alibaba.version>
+        <spring.cloud.alibaba.version>2.2.7.RELEASE</spring.cloud.alibaba.version>
         <!-- tesla-->
         <tesla-spring-boot-starter.version>2.1.6-SNAPSHOT</tesla-spring-boot-starter.version>
         <!-- other -->

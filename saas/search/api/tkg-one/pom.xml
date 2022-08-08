@@ -28,7 +28,7 @@
         <aliyun-log.version>0.6.56</aliyun-log.version>
         <security-all.version>1.2-SNAPSHOT</security-all.version>
         <fastvalidator-spring-boot-starter.version>2.6.2.8</fastvalidator-spring-boot-starter.version>
-        <spring.cloud.alibaba.version>2.1.2.RELEASE</spring.cloud.alibaba.version>
+        <spring.cloud.alibaba.version>2.2.0.RELEASE</spring.cloud.alibaba.version>
 
         <!-- tesla -->
         <tesla-spring-boot-starter.version>2.1.6-SNAPSHOT</tesla-spring-boot-starter.version>

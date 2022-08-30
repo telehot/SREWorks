@@ -78,7 +78,7 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>1.17</version>
+            <version>1.31</version>
         </dependency>
         <dependency>
             <groupId>br.com.six2six</groupId>
@@ -131,9 +131,7 @@
                         <phase>package</phase>
                         <configuration>
                             <tasks>
-                                <unzip
-                                        src="${project.build.directory}/${project.build.finalName}.${project.packaging}"
-                                        dest="${project.build.directory}/warehouse" />
+                                <unzip src="${project.build.directory}/${project.build.finalName}.${project.packaging}" dest="${project.build.directory}/warehouse"/>
                             </tasks>
                         </configuration>
                         <goals>

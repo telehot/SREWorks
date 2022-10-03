@@ -51,7 +51,7 @@
         <grpc.version>1.14.0</grpc.version>
         <fastjson.version>1.2.72</fastjson.version>
         <mockito-all.version>1.10.19</mockito-all.version>
-        <jackson-databind.version>2.11.1</jackson-databind.version>
+        <jackson-databind.version>2.13.4</jackson-databind.version>
         <lombok.version>1.18.10</lombok.version>
         <protobuf-java.version>3.8.0</protobuf-java.version>
         <springfox.version>3.0.0</springfox.version>

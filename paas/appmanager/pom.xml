@@ -74,10 +74,10 @@
         <mybatis-spring-boot-starter.version>2.2.2</mybatis-spring-boot-starter.version>
         <aspectj.aspectjweaver.version>1.9.8</aspectj.aspectjweaver.version>
         <janino.version>3.1.6</janino.version>
-        <fabric8.version>5.7.2</fabric8.version>
+        <fabric8.version>6.2.0</fabric8.version>
 
         <!--k8s-->
-        <k8s.client.version>10.0.0</k8s.client.version>
+        <k8s.client.version>16.0.1</k8s.client.version>
 
         <!-- storage -->
         <aliyun-sdk-oss.version>3.14.0</aliyun-sdk-oss.version>

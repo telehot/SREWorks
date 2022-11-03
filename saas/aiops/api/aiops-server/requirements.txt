@@ -21,6 +21,6 @@ cvxopt==1.2.6
 PyWavelets==1.1.1
 astropy==4.2
 Cython==0.29.23
-wheel==0.36.0
+wheel==0.38.0
 pandas==0.24.0
 scipy==1.7.0

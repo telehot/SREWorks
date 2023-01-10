@@ -6,8 +6,8 @@
   "dependencies": {
     "chai": "3.5.0",
     "jwebdriver": "2.2.6",
-    "mocha": "3.1.2",
-    "mocha-parallel-tests": "1.2.4",
+    "mocha": "4.0.0",
+    "mocha-parallel-tests": "2.0.0",
     "mochawesome-uirecorder": "1.5.25",
     "resemblejs-node": "1.0.0",
     "selenium-standalone": "6.x.x"

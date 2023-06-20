@@ -33,7 +33,7 @@
         <jjwt.version>0.9.1</jjwt.version>
         <maven-antrun.version>1.8</maven-antrun.version>
         <spring-test.version>4.3.2.RELEASE</spring-test.version>
-        <guava.version>20.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <junit.version>4.12</junit.version>
         <mybatis.version>3.4.2</mybatis.version>
         <mybatis-typehandlers-jsr310.version>1.0.2</mybatis-typehandlers-jsr310.version>

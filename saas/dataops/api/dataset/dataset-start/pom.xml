@@ -63,7 +63,7 @@
         <dependency>
             <groupId>com.itfsw</groupId>
             <artifactId>mybatis-generator-plugin</artifactId>
-            <version>1.1.2</version>
+            <version>1.2.8</version>
         </dependency>
         <dependency>
             <groupId>org.mybatis</groupId>
@@ -105,9 +105,7 @@
                         <phase>package</phase>
                         <configuration>
                             <tasks>
-                                <unzip
-                                        src="${project.build.directory}/${project.build.finalName}.${project.packaging}"
-                                        dest="${project.build.directory}/dataset" />
+                                <unzip src="${project.build.directory}/${project.build.finalName}.${project.packaging}" dest="${project.build.directory}/dataset"/>
                             </tasks>
                         </configuration>
                         <goals>

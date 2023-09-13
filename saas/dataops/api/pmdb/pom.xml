@@ -37,7 +37,7 @@
         <security-facade.version>2.0.1-hotfix</security-facade.version>
 
         <mockito-all.version>1.10.19</mockito-all.version>
-        <mybatis-starter.version>1.1.1</mybatis-starter.version>
+        <mybatis-starter.version>2.3.1</mybatis-starter.version>
         <lombok.version>1.18.2</lombok.version>
         <elasticsearch>7.13.0</elasticsearch>
         <elasticsearch-hl-client>7.13.0</elasticsearch-hl-client>

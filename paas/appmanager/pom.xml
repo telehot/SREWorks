@@ -43,7 +43,7 @@
         <spring.cloud.stream>3.2.2</spring.cloud.stream>
         <spring-cloud-stream-test-support.version>3.2.2</spring-cloud-stream-test-support.version>
         <spring-boot-starter-data-redis.version>2.6.4</spring-boot-starter-data-redis.version>
-        <spring-boot-starter-security.version>2.6.4</spring-boot-starter-security.version>
+        <spring-boot-starter-security.version>3.0.11</spring-boot-starter-security.version>
         <spring-security-oauth2-autoconfigure.version>2.6.3</spring-security-oauth2-autoconfigure.version>
         <micrometer-registry-prometheus.version>1.8.3</micrometer-registry-prometheus.version>
 

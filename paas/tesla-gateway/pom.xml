@@ -47,7 +47,7 @@
         <maven-antrun.version>1.8</maven-antrun.version>
 
         <velocity.starter.version>1.0.2</velocity.starter.version>
-        <jjwt-version>0.7.0</jjwt-version>
+        <jjwt-version>0.12.0</jjwt-version>
         <grpc.version>1.14.0</grpc.version>
         <fastjson.version>1.2.72</fastjson.version>
         <mockito-all.version>1.10.19</mockito-all.version>

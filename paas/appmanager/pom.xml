@@ -51,7 +51,7 @@
         <fastjson.version>1.2.79</fastjson.version>
         <okhttp.version>4.9.3</okhttp.version>
         <jsonpath.version>2.7.0</jsonpath.version>
-        <jinjava.version>2.6.0</jinjava.version>
+        <jinjava.version>2.7.1</jinjava.version>
         <hikaricp.version>5.0.1</hikaricp.version>
 
         <!-- tesla -->
@@ -86,7 +86,7 @@
         <mybatis-generator.version>1.3.7</mybatis-generator.version>
         <h2.version>2.1.210</h2.version>
         <assertj-core.version>3.22.0</assertj-core.version>
-        <snakeyaml.version>1.30</snakeyaml.version>
+        <snakeyaml.version>1.31</snakeyaml.version>
         <semver4j.version>3.1.0</semver4j.version>
     </properties>
 

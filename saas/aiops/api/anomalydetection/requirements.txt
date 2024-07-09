@@ -1,3 +1,4 @@
 bentoml==0.13.1
 pandas==1.2.5
 scikit-learn==0.24.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability

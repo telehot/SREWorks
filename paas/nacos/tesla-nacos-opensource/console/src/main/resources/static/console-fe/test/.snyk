@@ -1,0 +1,15 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:handlebars:20151207':
+    - mochawesome-uirecorder > handlebars:
+        patched: '2024-09-11T01:11:40.944Z'
+        id: 'npm:handlebars:20151207'
+        path: mochawesome-uirecorder > handlebars
+  'npm:lodash:20180130':
+    - mochawesome-uirecorder > lodash:
+        patched: '2024-09-11T01:11:40.944Z'
+        id: 'npm:lodash:20180130'
+        path: mochawesome-uirecorder > lodash

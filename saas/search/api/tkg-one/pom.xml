@@ -49,7 +49,7 @@
         <quartz-all.vesrion>1.6.1</quartz-all.vesrion>
         <jsoup.version>1.11.3</jsoup.version>
         <libthrift.version>0.10.0</libthrift.version>
-        <protobuf-java.vesrion>2.5.0</protobuf-java.vesrion>
+        <protobuf-java.vesrion>3.25.5</protobuf-java.vesrion>
         <presto-jdbc.version>304</presto-jdbc.version>
 
         <!-- test -->

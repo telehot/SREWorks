@@ -1,4 +1,4 @@
-FROM maven:3.8.1-adoptopenjdk-8
+FROM maven:3.8.3-adoptopenjdk-8
 
 #COPY dependency /root/dependency
 

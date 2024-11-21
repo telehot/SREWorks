@@ -75,7 +75,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.3.22.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
         <dependency>
             <groupId>org.yaml</groupId>
@@ -139,9 +139,7 @@
                         <phase>package</phase>
                         <configuration>
                             <tasks>
-                                <unzip
-                                        src="${project.build.directory}/${project.build.finalName}.${project.packaging}"
-                                        dest="${project.build.directory}/dataset" />
+                                <unzip src="${project.build.directory}/${project.build.finalName}.${project.packaging}" dest="${project.build.directory}/dataset"/>
                             </tasks>
                         </configuration>
                         <goals>

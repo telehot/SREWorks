@@ -1,3 +1,9 @@
-bentoml==0.13.1
+bentoml==1.2.5
 pandas==1.2.5
-scikit-learn==0.24.2
+scikit-learn==1.5.0
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability

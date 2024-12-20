@@ -127,7 +127,7 @@
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
-            <version>3.0.0</version>
+            <version>3.7.2</version>
         </dependency>
 
     </dependencies>
@@ -150,8 +150,7 @@
                         <phase>package</phase>
                         <configuration>
                             <tasks>
-                                <unzip src="${project.build.directory}/${project.build.finalName}.${project.packaging}"
-                                       dest="${project.build.directory}/${project.parent.artifactId}"/>
+                                <unzip src="${project.build.directory}/${project.build.finalName}.${project.packaging}" dest="${project.build.directory}/${project.parent.artifactId}"/>
                             </tasks>
                         </configuration>
                         <goals>

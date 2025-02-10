@@ -1,4 +1,4 @@
-setuptools>=38.5.1
+setuptools>=70.0.0
 six>=1.11.0
 pbr >= 5.1.1
 msgpack-python >= 0.4.8

@@ -73,7 +73,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>6.1.6.Final</version>
+            <version>6.2.0.Final</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
@@ -121,9 +121,7 @@
                         <phase>package</phase>
                         <configuration>
                             <target>
-                                <unzip
-                                        src="${project.build.directory}/${project.build.finalName}.${project.packaging}"
-                                        dest="${project.build.directory}/action"/>
+                                <unzip src="${project.build.directory}/${project.build.finalName}.${project.packaging}" dest="${project.build.directory}/action"/>
                             </target>
                         </configuration>
                         <goals>

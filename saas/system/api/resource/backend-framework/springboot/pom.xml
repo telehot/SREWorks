@@ -23,7 +23,7 @@
     <spring.cloud.dependencies.version>Hoxton.SR10</spring.cloud.dependencies.version>
 
     <!-- alibaba-->
-    <spring.cloud.alibaba.version>2.1.2.RELEASE</spring.cloud.alibaba.version>
+    <spring.cloud.alibaba.version>2.2.0.RELEASE</spring.cloud.alibaba.version>
 
     <!-- tesla-->
     <tesla-spring-boot-starter.version>2.1.6-SNAPSHOT</tesla-spring-boot-starter.version>

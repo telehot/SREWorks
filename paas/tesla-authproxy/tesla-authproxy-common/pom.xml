@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <jjwt.version>0.9.1</jjwt.version>
+        <jjwt.version>0.12.0</jjwt.version>
         <lombok.version>1.18.2</lombok.version>
         <commons-lang3.version>3.4</commons-lang3.version>
         <slf4j.version>1.7.26</slf4j.version>

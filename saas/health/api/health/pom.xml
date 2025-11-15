@@ -44,7 +44,7 @@
         <pandora-boot.version>2019-09-stable</pandora-boot.version>
         <pandora-boot-maven-plugin.version>2.1.11.8</pandora-boot-maven-plugin.version>
 
-        <okhttp.version>3.14.9</okhttp.version>
+        <okhttp.version>4.9.2</okhttp.version>
         <google.guava.version>23.0</google.guava.version>
         <kafka.client.version>2.8.0</kafka.client.version>
         <elasticsearch>7.13.0</elasticsearch>

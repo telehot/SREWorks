@@ -25,7 +25,7 @@
         <buc.uc.api.version>1.0.87</buc.uc.api.version>
         <fastjson.version>1.2.72</fastjson.version>
         <timetunnel-clientng.version>0.5.8.3</timetunnel-clientng.version>
-        <aliyun-log.version>0.6.56</aliyun-log.version>
+        <aliyun-log.version>0.6.145</aliyun-log.version>
         <security-all.version>1.2-SNAPSHOT</security-all.version>
         <fastvalidator-spring-boot-starter.version>2.6.2.8</fastvalidator-spring-boot-starter.version>
         <spring.cloud.alibaba.version>2.1.2.RELEASE</spring.cloud.alibaba.version>

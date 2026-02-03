@@ -1,3 +1,4 @@
-bentoml==0.13.1
+bentoml==1.4.34
 pandas==1.2.5
 scikit-learn==0.24.2
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
